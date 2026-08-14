@@ -6,17 +6,21 @@ This project was built to practice basic Python file automation.
 
 ### Before
 
+```text
 files_to_rename/
 ├── IMG_001.jpg
 ├── IMG_002.jpg
 └── IMG_003.jpg
+```
 
 ### After
 
+```text
 files_to_rename/
 ├── image_001.jpg
 ├── image_002.jpg
 └── image_003.jpg
+```
 
 Flow:
 
